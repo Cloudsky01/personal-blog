@@ -1,10 +1,12 @@
-![Astro Nano](_astro_nano.png)
+![Antoine Poellhuber's Blog](_astro_nano.png)
 
-Astro Nano is a static, minimalist, lightweight, lightning fast portfolio and blog theme.
+# Antoine Poellhuber's Personal Blog & Portfolio
 
-Built with Astro, Tailwind and Typescript, an no frameworks.
+This is my personal space on the web. A static, minimalist, lightweight, and lightning-fast portfolio and blog.
 
-It was designed as an even more minimal theme than my popular theme [Astro Sphere](https://github.com/markhorn-dev/astro-sphere)
+Built with Astro, Tailwind, and Typescript. It's designed to be clean, fast, and accessible.
+
+This site is based on the [Astro Nano](https://github.com/markhorn-dev/astro-nano) theme.
 
 ## 🚀 Deploy your own
 
@@ -27,17 +29,19 @@ It was designed as an even more minimal theme than my popular theme [Astro Spher
 - ✅ MDX Support (components in your markdown)
 
 ## 💯 Lighthouse score
-![Astro Nano Lighthouse Score](_lighthouse.png)
+![Lighthouse Score](_lighthouse.png)
 
 ## 🕊️ Lightweight
-No frameworks or added bulk
+No frameworks or added bulk.
 
 ## ⚡︎ Fast
-Rendered in ~40ms on localhost
+Optimized for speed.
 
-## 📄 Configuration
+## 🌐 Connect with me
 
-The blog posts on the demo serve as the documentation and configuration.
+- **GitHub:** [Cloudsky01](https://github.com/Cloudsky01)
+- **LinkedIn:** [Antoine Poellhuber](https://www.linkedin.com/in/antoine-poellhuber/)
+- **Email:** apoellhuber99@gmail.com
 
 ## 💻 Commands
 
